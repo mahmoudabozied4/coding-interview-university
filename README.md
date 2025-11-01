@@ -23,14 +23,14 @@ gantt
     title My Coding Interview Preparation Journey
     dateFormat  YYYY-MM-DD
     section Phase 1
-    Prerequisites           :2024-01-01, 7d
-    Data Structures        :2024-01-08, 30d
+    Prerequisites           :2025-01-01, 7d
+    Data Structures        :2025-01-08, 30d
     section Phase 2
-    Advanced Topics        :2024-02-08, 45d
-    System Design          :2024-03-25, 21d
+    Advanced Topics        :2025-02-08, 45d
+    System Design          :2025-03-25, 21d
     section Phase 3
-    Interview Prep         :2024-04-15, 14d
-    Mock Interviews        :2024-04-29, 7d
+    Interview Prep         :2025-04-15, 14d
+    Mock Interviews        :2025-04-29, 7d
 ```
 
 | **Milestone** | **Target Date** | **Status** |
